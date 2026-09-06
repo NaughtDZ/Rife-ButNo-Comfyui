@@ -86,7 +86,7 @@ L:\Comfyui_Portable\ComfyUI_windows_portable\python_embeded\python.exe run_rife_
 | `--output` | `-o` | string | 必填 | 输出视频路径 |
 | `--multiplier` | `-n` | int | 2 | 插值倍数（帧率提升倍数） |
 | `--scale` | | float | 1.0 | 处理缩放因子 (0.25-1.0)，值越小显存占用越低 |
-| `--model` | | string | `rife49` | RIFE 模型版本：`rife47`/`rife48`/`rife49` |
+| `--model` | | string | `rife49` | RIFE 模型版本：`rife47`/`rife48`/`rife49`/`flownet` |
 | `--precision` | | string | `fp32` | 计算精度：`fp32`/`bf16`/`fp16` |
 
 ## 💡 性能建议
